@@ -1,6 +1,8 @@
 # Rust
 /api/target
 /cli/target
+/contracts/target
+target/
 
 # Node
 node_modules
